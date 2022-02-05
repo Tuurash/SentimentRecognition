@@ -1,7 +1,7 @@
 
 
 # SentimentRecognitionFromVoice
-https://colab.research.google.com/github/Tuurash/SentimentRecognition/blob/main/EmotionDetection_Final.ipynb#scrollTo=qNH1MG5JaxeK
+https://colab.research.google.com/github/Tuurash/SentimentRecognition/blob/main/RnDHelpers/EmotionDetection_Final.ipynb
 
 
 
