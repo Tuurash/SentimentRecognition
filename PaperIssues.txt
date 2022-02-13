@@ -1,0 +1,13 @@
+Abstract should not have any reference.
+Short forms will be full form on first time
+Why Corpus is realistic brief shortly
+According to some papers--> Paper referneces
+Model construction should be explaination of the processs
+Algorithm remove Image should go here
+Avoid the used library names,use algorithm names used by the library names
+figures name change to What it represents
+
+Rewrite Due to lack of time whole para.
+prefers: due to lack of end hardware/resources.
+
+
